@@ -5,3 +5,5 @@ The project also considers when a user exist a page by mistake or intentially, t
 
 if user would like for the them to be as is dark or light the browers will recall this state each time the user visits the website.\
 The project is made possible through JS and CSS.
+
+You can this project [View Live](https://light-dark-page.netlify.app)
